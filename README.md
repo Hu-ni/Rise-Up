@@ -4,7 +4,7 @@
   
   
 ## 소개 영상
-[![Video Label](http://img.youtube.com/vi/PUCoWKOXHfI/0.jpg)](https://www.youtube.com/watch?v=PUCoWKOXHfI)  
+[![Video Label](http://img.youtube.com/vi/lUmv8eoIkc4/0.jpg)](https://www.youtube.com/watch?v=lUmv8eoIkc4)  
 소개 영상
   
 ## 조작 방법
@@ -12,4 +12,4 @@
   
   
 ### 블로그 주소
-https://bit.ly/2OkYSHF
+https://bit.ly/33pNHlj
